@@ -11,7 +11,7 @@ This Python script utilizes the ffmpeg library to split a video into user-specif
 
 Make sure you have Python 3 installed. You can install ffmpeg by following the instructions on the [official ffmpeg website](https://ffmpeg.org/download.html) or by using a package manager like Homebrew (on macOS) or apt (on Linux).
 
-```bash
+bash
 # Example installation with Homebrew on macOS
 brew install ffmpeg
 
@@ -42,8 +42,5 @@ brew install ffmpeg
 
 4. **Contributions:**
    - If you find bugs, have suggestions for improvements, or want to contribute in any other way, feel free to open an issue or pull request.
-
-5. **License:**
-   - This project is distributed under the [MIT License](LICENSE).
 
 Happy splitting!
